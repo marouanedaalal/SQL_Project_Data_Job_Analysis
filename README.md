@@ -1,3 +1,22 @@
+# SQL Project: Data Job Market Analysis
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Background](#background)
+  - [Key Questions Addressed](#key-questions-addressed)
+- [Tools Used](#tools-used)
+- [The Analysis](#the-analysis)
+  - [Top Paying Data Analyst Jobs](#1-top-paying-data-analyst-jobs)
+  - [Skills for Top Paying Jobs](#2-skills-for-top-paying-jobs)
+  - [In-Demand Skills for Data Analysts](#3-in-demand-skills-for-data-analysts)
+  - [Skills Based on Salary](#4-skills-based-on-salary)
+  - [Most Optimal Skills to Learn](#5-most-optimal-skills-to-learn)
+- [What I Learned](#what-i-learned)
+- [Conclusions](#conclusions)
+  - [Insights](#insights)
+  - [Closing Thoughts](#closing-thoughts)
+
+
 # Introduction
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
 
