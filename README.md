@@ -15,7 +15,9 @@
 - [Conclusions](#conclusions)
   - [Insights](#insights)
   - [Closing Thoughts](#closing-thoughts)
+# Project Structure
 
+![ERD](/assets/library_erd.png)
 
 # Introduction
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
